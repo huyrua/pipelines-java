@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/huynguyen0407/Learning-AzureDevOps/_apis/build/status/huyrua.pipelines-java?branchName=master)](https://dev.azure.com/huynguyen0407/Learning-AzureDevOps/_build/latest?definitionId=1&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
